@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="how_many">How Many?</string>
+    <string name="roll_on">Roll On</string>
+</resources>
